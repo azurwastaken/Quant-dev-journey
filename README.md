@@ -1,1 +1,4 @@
-# quant-dev-roadmap
+# quant dev journey
+
+## Books
+- [ ] Element of Quantitative Investing
